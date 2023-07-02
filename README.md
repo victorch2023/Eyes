@@ -3,10 +3,10 @@
 
   &#xa0;
 
-  <!-- <a href="https://pacmenexercise.netlify.app">Demo</a> -->
+  <!-- <a href="https://eyeexercise.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">PacMen Exercise</h1>
+<h1 align="center">Eye Exercise</h1>
 
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## :dart: Descripción ##
 
-El presente proyecto consiste en la combinación de archivos que hace posible que en una página web se pueda crear a voluntad una cantidad de cabezas de “Pac Man”, y con un botón luego asignarle movimiento y dirección aleatoria rebotando con los bordes de la ventana.
+El presente proyecto consiste en una combinación de archivos que hace posible mostrar en una página web la imagen de 2 ojos que se mueven siguiendo la posición en donde se encuentra el mouse.
 
 
 
@@ -31,17 +31,15 @@ El presente proyecto consiste en la combinación de archivos que hace posible qu
 Hay 2 maneras de hacerlo:
 
 A través de cualquier navegador entrando al link:
-[Run] (https://victorch2023.github.io/Pacmen/)
+[Run] (https://victorch2023.github.io/Eyes/)
 
-O descargando todos los archivos del siguiente repositorio.
-[Repo] (https://github.com/victorch2023/Pacmen)
-Guárdelos en una sola carpeta. Y luego abra el archivo Index.html desde cualquier navegador. En la mayoría de los navegadores, se puede simplemente desplazar con el mouse el archivo Index.html desde la carpeta hacia el casillero de dominios en el navegador. Una vez listo el proyecto en la ventana del navegador, se hace clic en el botón “Add PacMan” para agregar la cantidad de cabezas de Pacman que se desea. Y luego se hace clic en el botón “Start Game” para darle movimiento y dirección aleatorio a cada cabeza.
-
-
+O descargando todos los archivos del siguiente repositorio. 
+[Repo] (https://github.com/victorch2023/Eyes)
+Guárdelos en una sola carpeta. Y luego abra el archivo Index.html desde cualquier navegador. En la mayoría de los navegadores, se puede simplemente desplazar con el mouse el archivo Index.html desde la carpeta hacia el casillero de dominios en el navegador. Una vez listo el proyecto en la ventana del navegador, se debería ver 2 ojos en la pantalla. Y al mover el mouse alrededor, se debería ver que los ojos se mueven en dirección como si observaran el puntero del mouse.
 
 ## :checkered_flag: Hoja de Ruta para futuras mejoras ##
 
-A futuro se buscará ver la programación necesaria para que las cabezas de “Pacman” muevan la boca mientras se desplazan y cambie de sentido su toca algún borde de la ventana.
+A futuro se podría trabajar el código adecuado para hacer que los ojos pestañeen de vez en cuando, teniendo como lapso de tiempo aleatorio entre cada cerrada de ojos. Bajo la misma lógica de movimiento de los ojos, también se podría alternar con otros objetos como “un radar”, “un dedo que señala”, etc.
 
 
 
