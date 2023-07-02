@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#dart-descripci%C3%B3n">Descripción</a> &#xa0; | &#xa0;
-  <a href="#rocket-Como-ejecutar">Cómo ejecutar</a> &#xa0; | &#xa0;
+  <a href="#rocket-c%C3%B3mo-se-ejecuta">Cómo ejecutar</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-hoja-de-ruta-para-futuras-mejoras">Roadmap</a> &#xa0; | &#xa0;
   <a href="#memo-licencia">Licencia</a> &#xa0; | &#xa0;
   <a href="https://github.com/victorch2023" target="_blank">Autor</a>
