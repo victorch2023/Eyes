@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="#dart-Descripcion">Descripción</a> &#xa0; | &#xa0; 
+  <a href="#dart-descripci%C3%B3n">Descripción</a> &#xa0; | &#xa0;
   <a href="#rocket-Como-ejecutar">Cómo ejecutar</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-hoja-de-ruta-para-futuras-mejoras">Roadmap</a> &#xa0; | &#xa0;
   <a href="#memo-licencia">Licencia</a> &#xa0; | &#xa0;
